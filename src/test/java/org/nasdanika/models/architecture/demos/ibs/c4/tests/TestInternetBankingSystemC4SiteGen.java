@@ -95,7 +95,7 @@ public class TestInternetBankingSystemC4SiteGen {
 		String pageTemplateResource = "page-template-" + theme.name().toLowerCase() + ".yml";
 		URI pageTemplateURI = URI.createFileURI(new File(pageTemplateResource).getAbsolutePath());//.appendFragment("/");
 		
-		String siteMapDomain = "https://architecture.models.nasdanika.org/demos/internet-banking-system-c4/" + theme.name().toLowerCase() + "/";		
+		String siteMapDomain = "https://nasdanika-demos.github.io/internet-banking-system-c4/" + theme.name().toLowerCase() + "/";		
 		AppSiteGenerator actionSiteGenerator = new AppSiteGenerator() {
 			
 			protected boolean isDeleteOutputPath(String path) {
@@ -108,7 +108,7 @@ public class TestInternetBankingSystemC4SiteGen {
 				rootActionURI, 
 				pageTemplateURI, 
 				siteMapDomain, 
-				new File("../../docs/demo/internet-banking-system-c4/"  + theme.name().toLowerCase()), // Publishing to the repository's docs directory for GitHub pages 
+				new File("docs/"  + theme.name().toLowerCase()), // Publishing to the repository's docs directory for GitHub pages 
 				new File("target/ibs-doc-site-work-dir"), 
 				true);
 		
