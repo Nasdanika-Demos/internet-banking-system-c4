@@ -22,7 +22,7 @@ app-action:
               content-resource: classpath://org/nasdanika/html/model/app/gen/semantic-info.html
   navigation:
     - app-action:
-        location: https://github.com/Nasdanika-Models/architecture/tree/main/demos/internet-banking-system-c4
+        location: https://github.com/Nasdanika-Demos/internet-banking-system-c4
         icon: fab fa-github
         text: Sources
     - app-link:
