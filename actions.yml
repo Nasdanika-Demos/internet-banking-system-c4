@@ -1,0 +1,32 @@
+app-action:
+  icon: https://docs.nasdanika.org/images/nasdanika-logo.png
+  text: Nasdanika Architecture Models
+  location: https://architecture.models.nasdanika.org/
+  children:
+    - app-action-reference: "target/action-models/ibs.xmi#/"
+    - app-action:
+        location: ${base-uri}search.html
+        icon: fas fa-search
+        text: Search
+        content:
+          content-interpolator:
+            source:
+              content-resource: classpath://org/nasdanika/html/model/app/gen/search.html
+    - app-action:
+        location: ${base-uri}glossary.html
+        icon: fas fa-book
+        text: Glossary
+        content:
+          content-interpolator:
+            source:
+              content-resource: classpath://org/nasdanika/html/model/app/gen/semantic-info.html
+  navigation:
+    - app-action:
+        location: https://github.com/Nasdanika-Models/architecture/tree/main/demos/internet-banking-system-c4
+        icon: fab fa-github
+        text: Sources
+    - app-link:
+        location: https://icons8.com/
+        icon: https://img.icons8.com/fluency/16/icons8-new-logo.png
+        tooltip: Icons from ICONS8    
+          

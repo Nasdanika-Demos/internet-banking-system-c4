@@ -1,2 +1,1 @@
-# internet-banking-system-c4
-Internet banking system diagram mapped to the C4 Model
+Internet Banking System diagram mapped to the [C4 package](https://architecture.models.nasdanika.org/references/eSubpackages/c4/index.html) classes.
