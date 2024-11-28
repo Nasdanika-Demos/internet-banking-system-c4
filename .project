@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>org.nasdanika.models.architecture.demos.ibs.c4</name>
+	<name>org.nasdanika.demos.ibs.c4</name>
 	<comment>Loading from a Drawio diagram using feature mapping to C4 model and web site generation</comment>
 	<projects>
 	</projects>
