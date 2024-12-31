@@ -1,7 +1,7 @@
 app.Action:
   icon: https://docs.nasdanika.org/images/nasdanika-logo.png
-  text: Nasdanika Architecture Models
-  location: https://architecture.models.nasdanika.org/
+  text: Nasdanika Demos
+  location: https://github.com/Nasdanika-Demos
   children:
     - app.ActionReference: "target/action-models/ibs.xmi#/"
     - app.Action:
