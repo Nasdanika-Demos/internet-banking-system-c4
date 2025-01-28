@@ -1,6 +1,6 @@
 [
     {
-        "identifiers": ["uuid:c3ee6ee9-fc41-4f21-bdec-0adc51c8fb12"],
+        "identifiers": ["uuid:dec7fba1-2bed-4f71-9961-5ffec621c843"],
         "name": "Nasdanika Demos",
         "icon": "https://docs.nasdanika.org/images/nasdanika-logo.png",
         "location": "https://github.com/Nasdanika-Demos",
@@ -12,9 +12,9 @@
     {
         "container": {
             "reference": "children",
-            "identifiers": ["uuid:c3ee6ee9-fc41-4f21-bdec-0adc51c8fb12"]
+            "identifiers": ["uuid:dec7fba1-2bed-4f71-9961-5ffec621c843"]
         },
-        "identifiers": ["uuid:214410a7-0166-4307-82b3-237d2d152653"],
+        "identifiers": ["uuid:1d8adbee-a23f-4297-94ee-4bb097aa1d8b"],
         "name": "Search",
         "icon": "fas fa-search",
         "location": "search.html",
@@ -26,9 +26,9 @@
     {
         "container": {
             "reference": "children",
-            "identifiers": ["uuid:c3ee6ee9-fc41-4f21-bdec-0adc51c8fb12"]
+            "identifiers": ["uuid:dec7fba1-2bed-4f71-9961-5ffec621c843"]
         },
-        "identifiers": ["uuid:7f2a2b64-0ae0-4f96-b5f6-f83b2652553f"],
+        "identifiers": ["uuid:b8a015be-7028-4a35-a900-fa4971c6d290"],
         "name": "Glossary",
         "icon": "fas fa-book",
         "location": "glossary.html",
@@ -40,9 +40,9 @@
     {
         "container": {
             "reference": "navigation",
-            "identifiers": ["uuid:c3ee6ee9-fc41-4f21-bdec-0adc51c8fb12"]
+            "identifiers": ["uuid:dec7fba1-2bed-4f71-9961-5ffec621c843"]
         },
-        "identifiers": ["uuid:cdee1684-934a-4fec-958d-122eb74c916d"],
+        "identifiers": ["uuid:d5706e35-304f-444b-b077-5290e518f21d"],
         "name": "Sources",
         "icon": "fab fa-github",
         "location": "https://github.com/Nasdanika-Demos/internet-banking-system-c4",
@@ -54,9 +54,9 @@
     {
         "container": {
             "reference": "navigation",
-            "identifiers": ["uuid:c3ee6ee9-fc41-4f21-bdec-0adc51c8fb12"]
+            "identifiers": ["uuid:dec7fba1-2bed-4f71-9961-5ffec621c843"]
         },
-        "identifiers": ["uuid:8196a184-151f-495e-a25a-5cb72a915203"],
+        "identifiers": ["uuid:69dcdd6c-2666-424c-bd27-c58f6950ac47"],
         "icon": "https://img.icons8.com/fluency/16/icons8-new-logo.png",
         "description": "Icons from ICONS8",
         "location": "https://icons8.com/",
@@ -66,7 +66,7 @@
         }
     },
     {
-        "identifiers": ["uuid:57125944-308f-4924-9695-44ce97eadf6d"],
+        "identifiers": ["uuid:90ffa560-7dbd-4e57-a9a2-8394ccdd04bc"],
         "name": "Internet Banking System Architecture",
         "location": "index.html",
         "type": {
@@ -77,14 +77,14 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:57125944-308f-4924-9695-44ce97eadf6d"],
+            "identifiers": ["uuid:90ffa560-7dbd-4e57-a9a2-8394ccdd04bc"],
             "name": "Internet Banking System Architecture"
         },
-        "identifiers": ["uuid:e78438ef-205f-4ad3-af4c-7e2e32df42fd"],
+        "identifiers": ["uuid:a68ee17d-780b-4750-aee2-77459ecf6056"],
         "name": "E-mail System",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACm0lEQVR4XrWUzU/TcBzGMV40Xrx69GC8evOqf4EHY+LBRA6e3HjLFDhgHMqbG+3KGGwKW3kZqCBswGRjY27IQBYYCALjZdIxjGgFmTMCYxuPXQ1VOlzMEp/kkzT99fnk+22aZmX9Q+TZ9AnVbfqCKr/1jPgsbZCFY0ppw1lSYrhC5hhKSJnxeU1l/7xG54lpO2dB3TdNiTspIQs6TpK5TSRV2vNGo3ZH6o1TeGwLonE8jCeLCdT7E6iZjYGY3kN11QAj7qeElNDXtVYGuoUEaufiIGdiUExGUTG+i3IRRJUtpiftwZYae7C91iHQprYHqbzWIl5I5NDZlX2hlPJRqGuHMPJhD/MbCaxFcIiGByZXxkKnJ4gujRU22gkjYeGFjX8T9jExTG/Eed5+iUPhOyy0uBk42oaw/2ML2N6ChXalFyZF4skO4N4hBtt/y3Y3WbzQOjIXatVObLOf4OSkOxuf0a1zwM9EUoXyXgZFY995JlhuZW7VJHr/jnC/mENX5+InW51ZQlf9APzBX7IUYaEpgLzRMI+XjQrXYjQaJ7/mlMOL4IQP5mYPQuH9zIWUyo4erRWbgVkkvr4Hw0l7jaPphcPrUfSHdgTujn0Tzqoe2dBnngQzPsELk1j09vRC2VgYcl9E4M8JCbULnrUonumH8e7VKFZ9PnTV9acXpiMpTH7Yc2wcI54VDLuX4fWGDgu5P8vNItNySvkoFNV2mK0LcAwu8bIDXruWUVf8tJsXKnLpcxWlvey9Bi+KOxcgc3xMER1QVvZynchtvixGKaUvqfLp07wwmY5rHcepPP15Qtp0lZDScoWszVT+0BIopdyJkqZJFJoDKHCzKC+zrAilTKK803JKKTFcrJYYbpFSmiKkzTfEz/z3/AR25aUIkNGbZwAAAABJRU5ErkJggg==",
         "description": "The internal Microsoft Exchange e-mail system.",
-        "location": "references/elements/ms-exchange/index.html",
+        "location": "references/elements/CZZlD3ujU_sZwCS9Vbyt-3/index.html",
         "type": {
             "name": "System",
             "ns-uri": "ecore://nasdanika.org/models/architecture/c4"
@@ -93,9 +93,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:f04075ac-fe51-40fa-a91a-c64cb9f724f1"]
+            "identifiers": ["uuid:4e42c2d4-56c8-4ca1-a066-4b6e4285be05"]
         },
-        "identifiers": ["uuid:316fc0e2-30da-4ba8-b26f-962511a20de6"],
+        "identifiers": ["uuid:98b23ccb-7d91-4d4c-b4ea-a88db1fc7656"],
         "icon": "far fa-question-circle",
         "description": "The highest level of abstraction describing something that delivers value to its users",
         "type": {
@@ -106,10 +106,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:57125944-308f-4924-9695-44ce97eadf6d"],
+            "identifiers": ["uuid:90ffa560-7dbd-4e57-a9a2-8394ccdd04bc"],
             "name": "Internet Banking System Architecture"
         },
-        "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+        "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
         "name": "Internet Banking System",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAADIklEQVR4Xp1TXUiTYRRe0UWX0UU3pfv8wYptn1Jb5t9+nDl1rr5vY6sm6nRJ+RdNzXRlLnQOjTZTMjWcZZTOrJxmMEmRpIKSSroJDJIuiqiw6OfS03c++cY2lUYHHt6fc97nPe95zsvj/YftEOi3EiRdiMB5qD98k8s38eO1br6IdiZV9gAC50S8rh99oeH/tGix0S2tG4fUmltAexaAHloAecMdyO6cBYK5KDTeb/gMvkCrCAV5qCFR3ji5lN40CZnOqadZHY+HNX0vWdJIEeVa9/mEiDIZTNVga+0GZ/egHyMPZ5b7BsfZebbeAgRh2kzS9YuYadLJHsBzoVysocNSbwe1oRJy9BXQ1tEL1iYn2C91QXu3mx21+TUMoTyYUEAXBhFFibTSCKFOjIQydQlQeVXswbWwR1YA0jqvN715GpJPDax+ciRJKUna9ltidn7dW+C4YrHaoaK2Feqbu2Bk4hG4B8dgyOuDUd8MO+aX2iCj5QkkHu8D6ZkxQPWDMkMyVfs8GB58hvQmL5hKrXDC0sii6mwLYAmqmEtqzjnYUc68IKl8gG0bvkj7kdhFEX7CCOFBsTDXuqRyzYPe+4klXEuUQKAoCUZ7wkqTa21+wmiBJhI7PjbZNKdyvQat5wOknr7xLBxRuISCCFGAfSW9oLgwDVmX34C65+17IkFH7c8oWiyrsk3kHq6cl+Yc+6XRF4CCyUp5tJaFMNn4bl1Cad0YS4ZIqxlZ4PFsG1d8dFGkiD5PkNQrT2c0iIsuQkp1PygdE0DdX9rCETJ1vImi+gkDM5SYr2Khkxj0pshU34YdUXC3lYCpa9vB0xHDQqIyArHXcJu57DqfpAaO6NKWBYnqUZYwWqAPquGBtucQl2KeiyHpbcx+FvriUovLFbZ7P1AsbKmoxLxMHsAGf4bMt4zareVzax42s1Bj/Y4qY5ZK+yyQVOPP2ORi30552Qul3fcH1ceWkphdXzDef3gtC+xDJMVMuZoicM3uM36MY2orC+VYZdxPwUzx+VxNccQ19in6/cUPxwL/MgqF6uOIa2z+sDJbyzihOOA6NGY9+wuOHABfG6FDvAAAAABJRU5ErkJggg==",
         "description": "Allows customers to view\ninformation about their bank accounts, and make payments.",
@@ -122,10 +122,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:16c32b63-6740-4789-89b1-63b3f3723722"],
+        "identifiers": ["uuid:fa9e0da2-aae1-4c11-9e1a-28d863bbae76"],
         "name": "Web Application",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABlUlEQVR4Xq2VvUtCURjG/UeisK2olpYKGkyCMmrQ0KElGoKGhtociiBycXELaow+lupSkoZI2BBYooL5gaYSKhF2tQJFEd7OcyQrhDh6PfBcnvO+z/u75947XNXknKlLqzNIWp0+rEwGCSwVzKlkpze5QHKbwiwYYAEYQWFrx0r3Pj/ZHS6yWG1UqVSplQUGWByYTKWb7tqKSqXyD1BjXHCOLy6REk1vb9Jq2FMHDgTOl7tDZ6RU6rujOnBiZj6g9p40BVpVA4gLNr+bttcoPZaLdCynSRN3UYh5CB419JARBjo/cvzLYdCYum18SXjUsJARBm7kgnTNBnCKsZiTD0PwqKGHjDBw9umG1jM+MrET9YUvaC3zwAWPGnrICAM7/sj29ywfCpYKpE96GkB41LCQEQb2s0cbZe9rMHJJPWw/EnNwwaOGHjLCwAM5RcValdyfLzSVcFOhVuGCRw09ZISBHX+HK89e2s8nyJz103D0ivbycS54czbAe8j8Azz802xHYHwDpaFdC/WyghKBAZaq07+AL5CaS5//jfj3AAAAAElFTkSuQmCC",
         "description": "Delivers the static content and the\nInternet banking single page\napplication.",
@@ -138,9 +138,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:e22ff1ad-e9ca-4522-9dc3-0bdb9b67f756"]
+            "identifiers": ["uuid:129afa3b-a14f-49d4-a26a-252343aca02c"]
         },
-        "identifiers": ["uuid:c4347036-8a37-4ced-a072-66a1411efb54"],
+        "identifiers": ["uuid:2bc312f7-3d7f-4049-89b2-541c496f4332"],
         "icon": "far fa-question-circle",
         "description": "Represents an application or a data store",
         "type": {
@@ -151,10 +151,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:9683a765-de5b-468f-924d-e7de15e57a2c"],
+        "identifiers": ["uuid:64b44959-bbd3-49e6-9428-459bbc6ecf18"],
         "name": "Single-Page Application",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABH0lEQVR4Xr3VsUqCYRTG8TcMGrMtiGpocHEQIqG5aA6CVl1cbMjBCNyEJpcuoaEr6AJqCpqiLW9A6zZ8/nrOxxvyQvK9eOAXp9PDg6ZoCCHsy4t8l0QHXfPlVnZLooOuMLZDW0ZSlWdp8scVhg66isIjOZGKnMtOEf3f/Cl8kPuS6BgH+5G9kIcbz7Ycmvips/udTDxL/0OfmvzIl/mVY8PudzJkfZKFl/IU/f4YFu8AsPuQIeuzvsIL+ZCWeZVrw+53MmR9koW8D+/C4tFgIFuG3e99y/okC5k9aZiD6M7udzLxJAvrMpU3M5FTw+53MmR9koXZX5TshWfyKT3zLleG3e9kyPokCzekI0PTlU1zE93JkPUpCrN/wGb9CpgBqrmJzPLMsekAAAAASUVORK5CYII=",
         "description": "Provides all of the Internet banking\nfunctionality to customers via their\nweb browser.",
@@ -167,9 +167,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:4f4b6751-1de6-4a74-bc16-210a3a3e720f"]
+            "identifiers": ["uuid:9822ae91-53ef-42cb-b73c-f13c0a7ded31"]
         },
-        "identifiers": ["uuid:632c1013-aeb6-4634-9641-9ad89f58fee7"],
+        "identifiers": ["uuid:37c95a81-c577-4fd0-80be-5f574b350182"],
         "icon": "far fa-question-circle",
         "description": "Represents an application or a data store",
         "type": {
@@ -180,14 +180,14 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:cf038266-de84-4a73-bf24-d540d096858f"],
+        "identifiers": ["uuid:4af3d33e-4b75-43b6-9169-cc7cc78c0973"],
         "name": "Mobile App",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACIUlEQVR4Xp2VbU/aUBTH/QD7DPsq29fZdNmLvdy7uUQTxzKW6BhhYDZx4JCHWUIZj1JtGYigmwZWB7boeNicOhLQgv7XVttYFsJlJ/nnNDfpL+ece+45Y2N9Zhq335t74j16PR3AIFmmAt0Xj5y+2fuzt/r/N5j54dvb1mdUzxMqQJPNHMKim4N1hlK/tfNFFwvTxPzjfobBnj+w33n11Is3L2kimcYdjn6GwWYmHHc93i3Ed48HiiudoCi0wMqeCOgPFbF+IGGrLqle0ccIr/pcvQvxFMg3ethu9siBXxvnkNpnyNUk0OlDWKcpBGN7KP/q6rDqH5ADlWjyMoxKVvB+IQPPh01w3D6cNkaHjRShlqrblQNbPIHHzqiRpTIHOixf/w9gmNlHcGkDC+ZPWN2sy/W71GHiqClrF5DI/oDPvYFYaAdL79Io/ZTQaF2MVkMNxu4coSDXctl+VTunNYVa6xKHsoiBdKSktwYd5REP78JliSNZaMJjS6kgTUTAVII3tAYd42GZ9CNCfcFeraPDCg3CS1mhi4bWUOBJOcrmdd00mFJnImA0+g3segX5agdxTkQ6LUA4vsBntoxy81w9oxJlrAlnZEAmySMsp5kV2shkq+DYCoTfPaylviMnthFcrWBFfjWM0CEDBvzb6sMvii2UbijDn/4zKIYClfE1N+lV5x6JhgIHDVjL9aR2+7KjDVjFrlbA8pAV4JcGrYC/dG4o+VvzBoAAAAAASUVORK5CYII=",
         "description": "Provides a limited subset of the\nInternet banking functionality to\ncustomers via their mobile device.",
-        "location": "references/elements/internet-banking-system/references/elements/mobile-application/index.html",
+        "location": "references/elements/internet-banking-system/references/elements/sIzGq_m-9j909wU1YzR0-2/index.html",
         "type": {
             "name": "Container",
             "ns-uri": "ecore://nasdanika.org/models/architecture/c4"
@@ -196,9 +196,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:3fa174ba-17cb-4246-9b39-43a370712fcc"]
+            "identifiers": ["uuid:a2201727-7ef5-4249-a166-8401f2c4cff3"]
         },
-        "identifiers": ["uuid:4247d5a0-a805-4fd9-b08b-8580453699c1"],
+        "identifiers": ["uuid:9d469c2f-4216-4bc5-a5e5-958520f8c049"],
         "icon": "far fa-question-circle",
         "description": "Represents an application or a data store",
         "type": {
@@ -209,13 +209,13 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:477ea484-1a1c-4b9a-a504-247f1d01a33d"],
+        "identifiers": ["uuid:552d9b48-205f-4c4b-97c6-37a8cac3338c"],
         "name": "Database",
         "description": "Stores user registration information,\nhashed authentication credentials,\naccess logs, etc.",
-        "location": "references/elements/internet-banking-system/references/elements/GtTa-R8eM8jf3LrMbg5p-3/index.html",
+        "location": "references/elements/internet-banking-system/references/elements/database/index.html",
         "type": {
             "name": "Container",
             "ns-uri": "ecore://nasdanika.org/models/architecture/c4"
@@ -224,9 +224,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:8589334a-b08a-43e7-a5e6-e21ff7519091"]
+            "identifiers": ["uuid:1a221235-d324-4e12-bdcf-055ff4903223"]
         },
-        "identifiers": ["uuid:11e74a63-cfcc-4f33-94ab-9a66cd753b09"],
+        "identifiers": ["uuid:c6c6fcea-458e-457d-bc1c-9e4a6444c33e"],
         "icon": "far fa-question-circle",
         "description": "Represents an application or a data store",
         "type": {
@@ -237,10 +237,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+        "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
         "name": "API Application",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACQElEQVR4Xq1VTU8TYRDeoxd+QON/IwY9GJWEi3AzejEBXSoQAw0uu00ptbFWabvbbQv9hNIi0JKiCDESoQFMeyH+gPF9pu7abpYihkkm++47M0/n49mpJF0hk/f9t+VhbRCKs9N+bZkZDcUTiT2CTomz095Xnt5Rb8nD6pB3xOcZH1IGXj5cuKd5U7+K22cExRl346PKgHck4IEvYpw4LDBMPw6mlqN1UmXzQpkw2on4HpmZA0pnv7Ga6QNKxBsEmyonL+A7PRZMuYLi1+BgZYMSzcwhheaLDATls7iDzfJDDGKdeBJKQGaWY65ywtlVGz/tYCiAYbPeEYNYJ56EnqEUyzFfaVK5fk71wzYVN5u0UvhO2fIx21bXftBq6YjPyoTeQk+deBKajZ5ZgPPPY7RSPKLSzhn5p9IUelPCUCgea1DQlxeZJTutET1FrA0EboEOmGDh02mn3I0Tmn0SocjSJr/7X6X5mRFZvlVKpOufKRre4jvEIBYYzFP5gTbY3WTox0iNlt/XOKNuwKS5T2GtbAMieyhnKjBAfldAAL0LVGjuWZTy1SYDQhdnc9xHC3Bd9Hitdt4L6Cy5sHVKCy8M0o0vFFbXKfZh187Q0r4lO4diJPcpEqyyc27jmBZfZ8VQMj2AS74C6NLJTAxl8pF21wayBKMHbTjLP8OBomQoerX9tcXPXtoYbVfauBJbkLg7M4D9M7Fv/NNzXw6NS5aD3rpyOUD+rq+AB33pv758/dfXZQI6/PeCdZPr/gX8Bs8CPfM3Ky9ZAAAAAElFTkSuQmCC",
         "description": "Provides Internet banking\nfunctionality via a JSP/HTTPS API.",
@@ -253,10 +253,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:9ab7c2e9-da5f-4e00-87c0-816971185262"],
+        "identifiers": ["uuid:8fe0785b-13a9-403c-8dbe-db3a3561574f"],
         "name": "Sign In Controller",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAA5ElEQVR4XuXTPw8BQRAF8PkA/iWiI6HQilKIGBqFmoagkGjUGomGQqUSvq737iYbYnF70XnJLzc7l5vs5u5E/jZZOME+JT7LGS49WMEWdrZmnTQDiZ9xUZhCGzpQs7qU0FjiGS5ccGA5pZl4Bj41AqPmfSMwat43AtOC7mNDTWiGcICj1S5qQsIBC6iapfWiqPFlBAXPlTurSvxRE2vuNIoaXyZQ9Fw5MAN1w5q9KGpCwuPNH9Y8fqIjf8pa4j+Lb5i1SxPO8vrTf8NdKVygIj+Img00nu6kjEJffjgwB1e4QZ6NO6+OLZK0qsOwAAAAAElFTkSuQmCC",
         "description": "Allows users to sign in to the\nInternet Banking System.",
@@ -269,9 +269,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:139d0823-dc8f-4c14-8d08-e95a510a4132"]
+            "identifiers": ["uuid:f9e86642-0305-41b8-9e5c-1b62f45848f3"]
         },
-        "identifiers": ["uuid:adb62ad5-7128-4fd2-927a-31c4e99798d3"],
+        "identifiers": ["uuid:0254160b-8be6-4fcd-ac84-a396664c2376"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -282,10 +282,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:5671745b-5504-411e-8c72-6d8913620b82"],
+        "identifiers": ["uuid:ffaf15f6-b19b-40f4-ad30-65f2647f9185"],
         "name": "Security Component",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACvUlEQVR4Xo2U70tTURjHF0SQb/oDetGLIOhtFBRBRPfe+QOvIjnNfKFRUIEhi1LvObs6jVk6W43t7m6rpZiw/JEOt11NKUvth1qBLyKNwKJEpKIcSC/Sns5ZeufuXbYvfDlw7vf58Jxz7jkGwz/kMB/aLtUwWZLAOT2InSV+70GM2ytwOT4rn6HNp5TPcmy3jNkKD+IUAlj2WYzQd9MEU53niM9DyFkEPtEI5NtPD2YHJMRVugVmj5ZjkAT20loX0G7LhYeBMpiJmGFpsgGWX9uSvDTVALPRi/CIZO7aeAqnJt2zlxNAxA31u4ph/jHSAf7nhScYwq4TQBkqkND7RlrLdeF0PXKnnACZ3gQQc7cHvaW6YLoekEuB7L1fBcqIrbvvKNQF03XP9eMgI0ZUgRLmSgL12bpgug5Ys0HCTHECaGH30tNaHBd14VSeG7PD1AMnzD9rhsUxMX7SSb8PGAxbyOSX6d4LuuJUtns7IA9FobvTDx+Gq4Fs1yJlqEAq8i92RKUSXTF17GUjLDxvgm+TV8Hf1gpFteE48NSVEAT8dhhtP9ORi8M7k4HYyNNb8P1FvQ54L3gLCnAEygiAgrQutIS+knGVx8pBFWi1Ht0qI+7TRPCsDljnCmohMR5FJ8i4oplP3BYqejfpaf+YSO4y9qoRTGvLpLAcHN1F8/k4XJCAKYNJMKouq2kbOZx39C5ru8zHfwtpZ+t53hrOWAfygjKykaXKjY1HCHT1LXkc1mGfnzaDSVQ7XKGdUVg+Uq5tWO6sqXp4h5YXF3n3BH9tJswNVcWB5pbujfu0iZUuLUuVR2Bv+MVMeNNfCaMRN1Q09UBNS1sKSPQ3AQXJOMOj8D4tJ0mSwFSR5f9S5JPxF2W8/fSKrcXhIMUf12DTeYJyWFu3qbyY20+gY9StYtYBOkdAMgXyKFKtzf8BuGNBRexfor0AAAAASUVORK5CYII=",
         "description": "Provides functionality related to\nsigning in, changing passwords, etc.",
@@ -298,9 +298,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:5c64a4e0-4c12-4cb4-9664-846bde384e5f"]
+            "identifiers": ["uuid:a738e43a-4a69-418f-824d-9cf3db489feb"]
         },
-        "identifiers": ["uuid:7077f80e-b6b1-47fc-8135-1a0ba852c81a"],
+        "identifiers": ["uuid:d9bdcdf4-8c7c-4e76-88bb-e2304e88b56c"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -311,10 +311,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:608a8245-ffed-4745-a632-f202b166e1a3"],
+        "identifiers": ["uuid:ca8aac74-cd92-4ef7-8693-07b012be6381"],
         "name": "Reset Password Controller",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACMUlEQVR4Xp2U24uOURTGH+fDhUQjhzAOoXGh5DSlfA4XLpyScimK4caNC6XkjlDTCLkaOV05RDJTbjRyCjcOJfkblH/B8/vW2l97vhlN46lf7Xfv/e53rb2e9Upja4HZmDD+L803F81n88xcM33mqflkLmkch58w781BM9lMN6sSxpPMPvPBHM93ZufaCF0xN81Us928MG/MnYTxQK6x55Z5bn6b3WrTKXNdEcEN88B01htSS81D05vPDcVeMmhpoXlnpigiPFMvtmmC+WXuVXOvFe+2RKp7zE5zv16w1ihSf2W2KQ5cZvrNS7NVcefDROUmmkGzxMwy3xR3RnpbFClxJbz83cwxKxR3+0SVFpnHZoYZyrnl5m7ZMIpId2X1TDBEzxnarPDYLkUaqENtX7W6zbkcU2kiRAcUGf5UmF9rzVdFRDtyEyr3whyG5nmeIhoMX3TbdCmqvqmab/qqFvfVyPFhxWGI4lHEIipMqmSEW5qaa/4o/MdFI/xGUaaVTdZMRYeUtqOApI93P5ZNaJ3C9dgGizwy680xRZU5lNairw/lOwiL8c5ec7mab7bN+Rxz2T/M6XymXzH9W0XqRZifJsDQrLfSRUfNBXNEET7RUiRSQtioM8eLFbbhsNKmJ3OtpbPmi6JibOCrpML9DCnsBIwxPxZjD4W7qlFElfga6lFYZH/OsbZa0YKMsQ2VJs0Rkf1LVJGfKJXDgxgfsAYmpgDD7mw84u+9QdEFYx7yF/GLZUv25e/pAAAAAElFTkSuQmCC",
         "description": "Allows users to reset their\npasswords with a single use URL.",
@@ -327,9 +327,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:ebf1f760-3366-4462-ae8c-901ae68ff0ee"]
+            "identifiers": ["uuid:62e444d6-bd4a-42cf-a0c1-fd3f3d73bdaa"]
         },
-        "identifiers": ["uuid:ef08904b-62b3-4e62-88af-9ef398548296"],
+        "identifiers": ["uuid:73e495cc-23d1-4064-87b6-5f9df6091220"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -340,10 +340,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:3788ce81-56c3-476d-abcd-c5090bdc64b1"],
+        "identifiers": ["uuid:fde2b292-77e5-4cde-b3ea-3d174e666097"],
         "name": "E-mail Component",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAvUlEQVR4XmNgGHlg1Yx9dSf23vtPDQwyi2HTkhN1d65++k8NDDKLYcOiY1QzEGQWw6pZB+qO7rz9/9zRJxgKiMUgvUd23vq/evbBeriXL518ARa8eOI5hgZcGKTn6K7bYBrEB3sZPQzPH3v6H+Tiq2dfYxgAwyA5kEHnjz5FEcdqIAyfPvgQ7OIbF97BxW5efPf/2O47YDl09QQNhOGT++7/P77nLhif3H8fQ55kA0nBowZSjsEGUr1wGHkAAHgfzdXGR+ZAAAAAAElFTkSuQmCC",
         "description": "Sends e-mails to users.",
@@ -356,9 +356,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:2a8ed085-9e3f-438f-bbe1-4ba5059e38a6"]
+            "identifiers": ["uuid:420e32f9-b338-4e98-b57b-dfbab7ec7a93"]
         },
-        "identifiers": ["uuid:f6ea4488-d9dc-4f52-b21f-dbdec5a69596"],
+        "identifiers": ["uuid:e5b581a5-6e70-4831-bb5a-d90875ca48b3"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -369,10 +369,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:bd4c64a7-f19e-4507-86f5-f0e5015c39dc"],
+        "identifiers": ["uuid:38e680da-a266-4ab5-a638-d92972b58e95"],
         "name": "Accounts Summary Controller",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAnElEQVR4XmNgGPSgomtuz8TFW/9TA4PMAhu44eCV/9TANDKwe07bmt3H/4PwlgOn/u8+ehYrJkYNyCyggbMbHr7+9B+EP3z98R8XIEYNyCy4gccv3wErvvvoGYbNIECMGhQDCdlOjBqCLgSxYQCXmoF1IbFhiNVAQrYTowarC5EBLhfiUkMfF6KHDzYX4lJDOxcSk0+JUQM2cNADAPKoTnGDsSz/AAAAAElFTkSuQmCC",
         "description": "Provides customers wiht a summary\nof their bank accounts.",
@@ -385,9 +385,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:87adc45a-538c-48c2-a003-72d2c91efed2"]
+            "identifiers": ["uuid:b18d256a-0c63-4912-af2c-1db1d996c919"]
         },
-        "identifiers": ["uuid:5d930290-7895-4a7d-8245-ef60991a2513"],
+        "identifiers": ["uuid:4190324b-39bf-45f9-b5c3-350e5b2496c4"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -398,11 +398,11 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:90bfa868-e3fc-4146-b012-f85c8f4da929"],
+            "identifiers": ["uuid:9b860078-4bf0-48c9-9a47-7ee46837543b"],
             "name": "API Application"
         },
-        "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-        "name": "Mainframe Banking System Facade",
+        "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+        "name": "com.bigankplc.internetbanking.component.mainframe",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACqklEQVR4Xr2Ty0+TQRTFP0XrRgk7wZUGKPKKkErCQ5KCgFKkhRIoYiN9EKAIkYVAwkKKMfIIPlBQNICFJgRrCYLGKBJYGTfCWiT+A/4Nkp8zEJRvUFjpSW7m9pxz78ydb6pp/x2VRJy6znEZmp+Dqrwv4lqI1DQOnG7AbmwgGO8jEOejN7aRvliRGxuZTKynTHq2vHsg3ctYSh2Pz9SxmlqH21TPYdWTXIlBeLwZPr5W9ENmMyHVswmzi6isWoZkLtaJvcaTG3m72XjxHhpug7mJo6pHkyMUOFktrGHyvJN+Vd1GcTFHLjpJKK7l241ONi65+CJrVZ9mdWAvrcZVKT6CqtntxJRVcUvEQLWXT1d8YHFgNJs5JGq8pQ5sao1WXU6w/g93drmcHkcFIbFRgohop4Ow5yof5UmlLjhDtZ1JXZE8lcfGcx0p4LXS5y7FJrSwx8oxyTnFaUWuuxK3lYBustYLxDRb6Nnh0VqKiWyx8ErwM9cs2MQabhdNW0tIbLLQpXh7BRf9i+gUDduK9A07CqhqL8QqGwstLH7bOsQquJdtO4sFBNer4+Rx/fn6kW/mU9ptplbmftG0K49wdx42fx53dvo29TxlZIn+XIJPTb8/yr0SlgZr+H43G9dALmVCn+0/p59Cwp+MQdaqvPYwE/twJq6Q2OlRDieGc1h7UsSH+9mUPMimYti8+/FK71AWnsEsylVNQzzO0VzWh3xsjGWzPpyhvycV4yYGRjMIjJ9lRdaqujabRtRUEwQXYMrDD7/297/esnjQ02lbdz6dzkgoeffpNzGfxcyCB+ZMrL1Owv15x51uQxQb3qTgnU9hRawjc6k8Uz06vI0jUo6wkEj5YgLBJSOBpXj6ZCwamZDcuyRs0iO9av2+CGlELJ8kWobMVf2f4yd8e3ogbU/QgQAAAABJRU5ErkJggg==",
         "description": "A facade onto the mainframe\nbanking system.",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/index.html",
@@ -414,10 +414,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:a6df80f2-67ac-4533-a800-e0107f6377fb"],
+        "identifiers": ["uuid:8d681a29-1472-487b-aad7-8113dd4579ab"],
         "name": "AbstractRequest",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-28/index.html",
@@ -429,9 +429,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:f20735ca-af5e-4df9-af58-4ae72cda6f27"]
+            "identifiers": ["uuid:44c78e97-9340-48cc-8bcf-9bb72a81f479"]
         },
-        "identifiers": ["uuid:568c924c-8928-4258-a3cd-fc1965502e45"],
+        "identifiers": ["uuid:f2d774f1-ba13-4569-b824-256566fd5731"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -442,10 +442,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:ec6ecc3b-55b1-4e47-b05e-05c1edaaaada"],
+        "identifiers": ["uuid:f1316f94-695c-4b89-962d-877bbbb859be"],
         "name": "AbstractResponse",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-30/index.html",
@@ -457,9 +457,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:bbd573fb-57ea-4fcd-bcad-c22a3a1cc9c5"]
+            "identifiers": ["uuid:83a12c08-ec1d-4c25-b487-909d23b0dcea"]
         },
-        "identifiers": ["uuid:c87b7a0e-d372-4898-bb60-eacf1781aeed"],
+        "identifiers": ["uuid:1589c0fa-86ec-42c5-a74f-a4f183783575"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -470,10 +470,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:b44934cf-183b-47d8-a659-0fab89bc1318"],
+        "identifiers": ["uuid:dbad31ea-b7bb-49d2-9aea-b7591095596a"],
         "name": "BankingSystemConnection",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-20/index.html",
@@ -485,9 +485,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:704b80b6-5889-43e4-ad01-395318925338"]
+            "identifiers": ["uuid:de0509f3-da23-4eff-951a-39a89404bf0a"]
         },
-        "identifiers": ["uuid:f4ffffd0-3387-4fb8-ac86-21bc9c1905b4"],
+        "identifiers": ["uuid:3170ed0b-1d38-4971-b52b-64869619f903"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -498,10 +498,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:260c3b1f-97c2-433e-9492-6fea9ec2ad7b"],
+        "identifiers": ["uuid:8084b2b5-e541-41dd-a875-f7bf3ebf7430"],
         "name": "GetBalanceRequest",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-26/index.html",
@@ -513,9 +513,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:7058afda-36a1-497c-a700-5af3f82a2f37"]
+            "identifiers": ["uuid:10109b43-fc05-41a8-b21a-ada71c3e7a62"]
         },
-        "identifiers": ["uuid:21e9332b-412c-4f9c-9f67-4e6193d7915d"],
+        "identifiers": ["uuid:980310eb-c246-4037-9c7f-b5e9021818d6"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -526,10 +526,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:dd232908-e495-442a-b8a8-0f07018cc1e8"],
+        "identifiers": ["uuid:60d7b8fc-322a-47fa-8aff-e48ac12c7c91"],
         "name": "GetBalanceResponse",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-24/index.html",
@@ -541,9 +541,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:59442508-56da-4b54-82fe-f7ddca210184"]
+            "identifiers": ["uuid:bf6f734b-828a-492c-a736-9ca1fa4b561f"]
         },
-        "identifiers": ["uuid:e11a3225-583f-49a1-ad1b-4eca9ad176e7"],
+        "identifiers": ["uuid:b8005e13-1776-4cce-a507-2fcfa99b10ea"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -554,10 +554,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:c1af98a9-8695-4419-b1ec-3656045d9166"],
+        "identifiers": ["uuid:285dbc42-1599-4e66-8470-7aee9e82e3ee"],
         "name": "MainframeBankingSystemException",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-22/index.html",
@@ -569,9 +569,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:a95a44a2-acc2-4105-9e8e-a713e58a6f82"]
+            "identifiers": ["uuid:8c5e773a-a010-47c5-9ae2-1c45391cbf72"]
         },
-        "identifiers": ["uuid:14906238-3d60-4167-a701-7b79c4cc0852"],
+        "identifiers": ["uuid:df41eab6-61b3-41b7-8584-79cc1a0bb5ec"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -582,10 +582,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:c2a8e277-c4ad-4488-8bac-b9173fee9017"],
+        "identifiers": ["uuid:2eb21e3e-f95e-46ca-9623-a28363b9adc3"],
         "name": "MainframeBankingSystemFacade",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABNElEQVR4XtWPzy4DURSH+yjewBUNJaX3BaytRSv+DC6ZxjSGjDQNkqGpppQaXSnTWlj4M1Ohwgv0jQ5ne25y5yxs/JJv950vOanUv1zgCo9L2xMj9F5b4I7CnT8H3dq8EfRarpD0XhuK32/3MBwOjbCDrV3BCqLHCjZLAr76yUH0LhxGsOGMweNtGaKnGyPo1TnBs51x6FwpeOhUjKBXd9KS3ms7LabhMw61FynoVW1G8Hh7Aj7irhagoHdoZyS911ZRk/AeJQfRKytG8GAjA+1rH8JeaAQ9jxPcs6agerIP582GEfRcixEsrU5D/7WnvUhBz7Gykt5rs5ezEL8kB9H7RdJ7bVtLMxA9JwfRU5zgZmEWan4RgssjI+ipvJT0Xtt6PjdYW8wNVhbMoKcKUtD7P90PtnAru04M1gsAAAAASUVORK5CYII=",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/7WUxxUmOBlSPoxcwmfUW-5/index.html",
@@ -597,9 +597,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:70e74c17-9761-45ac-b3c5-a30f99950b44"]
+            "identifiers": ["uuid:bf45be26-55a5-4990-aebd-a5495d5eba5e"]
         },
-        "identifiers": ["uuid:2ccebe08-00d6-44e6-8112-bcaf7b1a63e3"],
+        "identifiers": ["uuid:4921718a-166a-4186-b255-3f9a98b8acef"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -610,10 +610,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:16532d57-35a1-4803-a7d1-0baa972f53f8"],
-            "name": "Mainframe Banking System Facade"
+            "identifiers": ["uuid:65c57137-d51f-41d7-94c1-13f65ce93bf4"],
+            "name": "com.bigankplc.internetbanking.component.mainframe"
         },
-        "identifiers": ["uuid:3c140451-e75e-4ac1-ba9d-58134a4cdacf"],
+        "identifiers": ["uuid:84824ac3-a6dc-4ff4-9f64-aa11bc33f709"],
         "name": "MainframeBankingSystemFacadeImpl",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABVElEQVR4XtWRzUrDQBSF+yi+gSMWrVLtvIB7t2Ir/kRNJdIUo0QkiAgWDKFCKNbutGlUKO40WwU3gmmDiuJTmK6uXptuZiCZhRsPfDAD3zmLmVTqX6amEV2UU50MsX0uNW0YXHMG2vZsLOjZGqFsnwuKny/nEPaeYhEetLeI0CB6QoMnZQIfgQNfof9L2ItgzuhVVYFBSx2Bu7YBj/dnfR4iBvcI9EyRwePSKLiNItxcGbGgZ6ppyva5HG2m4T244N6MBb2KIjB4sDEGb93kQfT2lQxl+1wMeRxeO63ET0FvTxYY3F3LgNuswK3nxIKeLjK4LU1A1dqBesOKBT1NEhgsL09C4De5N2NBT5WylO1zURaz0PUdboAFvR8o2+dSXJiCzvNl4qegJ4sMrhemoW6X4Lp12MeNGNwj0JPzlLJ9Lqv5nLcyn/OW5uJBTy5Qwvb/NN9eckvLtBJ6KAAAAABJRU5ErkJggg==",
         "location": "references/elements/internet-banking-system/references/elements/api-application/references/elements/mainframe-banking-system-facade/references/elements/MainframeBankingSystemFacadeImpl/index.html",
@@ -625,9 +625,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:b95fbd22-8c03-491c-a34c-f993a99a9421"]
+            "identifiers": ["uuid:58296ffd-d521-4460-ae77-51a04b82fe58"]
         },
-        "identifiers": ["uuid:1c3c0027-5441-4107-8209-6a6274b54f57"],
+        "identifiers": ["uuid:c448ae6e-146d-4648-a609-acf93ba8dab8"],
         "icon": "far fa-question-circle",
         "description": "Code elements (e.g. classes, interfaces, objects, functions, database tables, etc) within a component",
         "type": {
@@ -638,9 +638,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:daa4c51c-e2ac-445d-b5e5-6380d796b4fb"]
+            "identifiers": ["uuid:f3ff93b4-5439-4dcf-8667-0cd67dc3d91e"]
         },
-        "identifiers": ["uuid:1f5ef459-c0ed-4c91-af11-b386101fd6fe"],
+        "identifiers": ["uuid:6b7c663e-5431-4208-bac7-177f46da55a3"],
         "icon": "far fa-question-circle",
         "description": "A grouping of related functionality encapsulated behind a well-defined interface",
         "type": {
@@ -651,9 +651,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:09d3adb9-93bb-4f7d-8b63-d68232d904cc"]
+            "identifiers": ["uuid:f0ce7ae5-5c77-4ddd-be71-7281f77ff664"]
         },
-        "identifiers": ["uuid:719c9b63-8cc2-48cc-9180-61bbefc4b7dc"],
+        "identifiers": ["uuid:cf79d54c-d233-4797-a31a-608ead73503a"],
         "icon": "far fa-question-circle",
         "description": "Represents an application or a data store",
         "type": {
@@ -664,9 +664,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:2db196ca-8f48-4324-b8fb-73ac1c1a5143"]
+            "identifiers": ["uuid:cb6badaa-299d-4a19-bca0-973a3bc6bcbc"]
         },
-        "identifiers": ["uuid:95bea141-5754-4035-ab50-64760dd64c38"],
+        "identifiers": ["uuid:4b70a36e-f7f4-4778-93b8-59b9c727cf68"],
         "icon": "far fa-question-circle",
         "description": "The highest level of abstraction describing something that delivers value to its users",
         "type": {
@@ -677,10 +677,10 @@
     {
         "container": {
             "reference": "outgoingConnections",
-            "identifiers": ["uuid:2574c732-a48f-4146-a3a3-94de4622143c"],
+            "identifiers": ["uuid:e3be120a-252f-4bc8-bc62-b3e620b7166b"],
             "name": "Internet Banking System"
         },
-        "identifiers": ["uuid:b11a75c1-e997-4c67-a99d-24dd8c4702b0"],
+        "identifiers": ["uuid:27b44ac6-57c0-4c81-a733-5a07f2d7c44e"],
         "name": "Sends e-mail using",
         "location": "references/elements/internet-banking-system/references/outgoingConnections/send-email-using/index.html",
         "type": {
@@ -691,9 +691,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:36165f93-15c0-4ac5-8b15-c812d6274782"]
+            "identifiers": ["uuid:25c7b80d-701a-485d-9e72-df81fa9dfcba"]
         },
-        "identifiers": ["uuid:b832afba-08a8-45f9-bd0e-7285933bbdef"],
+        "identifiers": ["uuid:44e55fc4-41dc-407d-9775-3f604d31b31b"],
         "icon": "far fa-question-circle",
         "description": "Connects architecture elements",
         "type": {
@@ -704,10 +704,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:57125944-308f-4924-9695-44ce97eadf6d"],
+            "identifiers": ["uuid:90ffa560-7dbd-4e57-a9a2-8394ccdd04bc"],
             "name": "Internet Banking System Architecture"
         },
-        "identifiers": ["uuid:e3980552-848d-4e3d-bf98-a93b8929d9ba"],
+        "identifiers": ["uuid:12c39df3-780b-4215-b3c0-50bf6e12477c"],
         "name": "Mainframe Banking System",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABSElEQVR4Xu2UzU7CQBSF+0qF/lAXJgKh2FJNWwMIrRq6YMFOTdy6dKNbVyYad8RobHg3luM9IzRwmZYH0Em+tOGc++Um06Bp/2d99KPwtdaO5yqQ8X5xnGgSOmF2yzG6w6UTZUKFzBQzcGmtZJY/Pb8JTuP4nAbVION9AJd22J/mV9f3gmN5I9pmogQZ7wO4tE46y1/ePwSnQUMGtlSAjPcBXOUb0qB9eqkEGe/v3dDuDoTejJQg4/1iQ7q1nN8i0FtxIai1zySFlDLeX1EurLsDUe/0pcCKpxK84zfDHe709wrxeVi9VEoeAl8i5X4iM95XCps3j1tCPE1/LHw3Eh5heuOtjM/sCDep2KIq+xVaQSqs4ELYJ6tPg54VQzLb7GIWDik8CLM7+li/TcLqJZ/A8EZfdKsLYl7CAp11H7NwwMX/K/7A+QEiEgjtcF++ZAAAAABJRU5ErkJggg==",
         "description": "Stores all of the core banking\ninformation about customers,\naccounts, transactions, etc.",
@@ -720,9 +720,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:488df950-dd21-4dfc-83eb-1244e15003e9"]
+            "identifiers": ["uuid:7f1d5ad1-923f-4c98-83d8-9c7b7004581f"]
         },
-        "identifiers": ["uuid:40cc5137-3f96-43b7-9ce4-ae655e4a9ca1"],
+        "identifiers": ["uuid:cbbbefe8-a2b7-4d3e-8e1b-248381c9c34d"],
         "icon": "far fa-question-circle",
         "description": "The highest level of abstraction describing something that delivers value to its users",
         "type": {
@@ -733,10 +733,10 @@
     {
         "container": {
             "reference": "elements",
-            "identifiers": ["uuid:57125944-308f-4924-9695-44ce97eadf6d"],
+            "identifiers": ["uuid:90ffa560-7dbd-4e57-a9a2-8394ccdd04bc"],
             "name": "Internet Banking System Architecture"
         },
-        "identifiers": ["uuid:cd797cbd-18d1-4db9-bc9d-5ece5d6845b0"],
+        "identifiers": ["uuid:26273cc6-1c96-4a85-8019-46079bcf13b8"],
         "name": "Personal Banking Customer",
         "icon": "https://img.icons8.com/officel/16/user.png",
         "description": "A customer of the bank, with personal bank accounts.",
@@ -749,9 +749,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:6ef81614-c3bd-43b9-a42a-6eb554841c93"]
+            "identifiers": ["uuid:b32fc1d0-0248-47b3-b0f1-7bdfb99486ca"]
         },
-        "identifiers": ["uuid:45fc6de1-3337-4299-81f5-ba80975fc673"],
+        "identifiers": ["uuid:f8d86bb4-9dbb-498e-8c3d-fbf6cdcab003"],
         "icon": "far fa-question-circle",
         "description": "Represents human users of a software system",
         "type": {
@@ -762,9 +762,9 @@
     {
         "container": {
             "reference": "decorator",
-            "identifiers": ["uuid:a42f636f-29de-4c92-9a80-a645bd920106"]
+            "identifiers": ["uuid:5d31beb2-33b8-4e0f-8bba-5a1c53003b98"]
         },
-        "identifiers": ["uuid:1dc1d0d8-8562-448a-a283-684962c42448"],
+        "identifiers": ["uuid:4fffadd2-7d8e-4136-81b1-578e6dd06337"],
         "icon": "far fa-question-circle",
         "description": "A grouping of architecture elements",
         "type": {
