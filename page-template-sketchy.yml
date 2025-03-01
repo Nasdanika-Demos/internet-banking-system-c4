@@ -24,6 +24,9 @@ bootstrap.Page:
   head:
     # Google analytics
     content.Text: |+2    
+
+      <!-- ${search-config} -->
+
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-9BRJVLK8CC"></script>
       <script>
